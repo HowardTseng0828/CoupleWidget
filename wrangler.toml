@@ -1,0 +1,6 @@
+name = "couple-widget"
+pages_build_output_dir = "./dist"
+
+[[kv_namespaces]]
+binding = "COUPLE_KV"
+id = "4dae619ff256477aa9a0a3a2a0655332"
